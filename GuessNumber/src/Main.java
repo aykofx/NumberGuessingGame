@@ -10,7 +10,7 @@ public class Main {
 		
 		//Setting a maximum of 5 tries.
 		int tries = 5;
-		//Store initial number of tries
+		//Store initial number of tries.
 		int maxTries = tries;
 		
 		Scanner input = new Scanner(System.in);
